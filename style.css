@@ -1,0 +1,13 @@
+* {
+	font-family: 'Helvetica Neue';
+	color: #333;
+	font-weight: normal;
+}
+
+h1 {
+	letter-spacing: 0.3pt;
+}
+
+ul li {
+	margin: 4px 0;
+}
