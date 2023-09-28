@@ -1,4 +1,4 @@
 # koszcz.github.io
 My personal page
 
-[koszcz.hithub.io](https://koszcz.github.io)
+[koszcz.github.io](https://koszcz.github.io/)
